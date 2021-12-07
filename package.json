@@ -1,0 +1,23 @@
+{
+  "name": "jest-testing-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^27.4.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/basnetlaxmi/jest-testing-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/basnetlaxmi/jest-testing-practice/issues"
+  },
+  "homepage": "https://github.com/basnetlaxmi/jest-testing-practice#readme"
+}
